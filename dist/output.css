@@ -644,12 +644,20 @@ video {
   gap: 2.5rem;
 }
 
+.border{
+  border-width: 1px;
+}
+
 .border-b{
   border-bottom-width: 1px;
 }
 
 .border-r-4{
   border-right-width: 4px;
+}
+
+.border-t{
+  border-top-width: 1px;
 }
 
 .border-gray-100{
@@ -713,6 +721,10 @@ video {
 
 .pb-2{
   padding-bottom: 0.5rem;
+}
+
+.text-left{
+  text-align: left;
 }
 
 .text-right{
