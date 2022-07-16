@@ -8,7 +8,7 @@
   @apply rounded-full py-2 px-3 uppercase text-xs cursor-pointer tracking-wide;
 }
 .card {
-  @apply relative bg-white rounded overflow-hidden shadow-md;
+  @apply relative bg-white rounded overflow-hidden shadow-md hover:shadow-lg;
 }
 .badge {
   @apply absolute top-0 ml-2 mt-2 bg-secondary-100 text-secondary-200 text-xs uppercase font-bold rounded-full p-2;
